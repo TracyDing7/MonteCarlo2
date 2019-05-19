@@ -10,6 +10,8 @@ public class MonteCarlo
         System.out.println("100 trials: " + marbleSimulation(100));
         System.out.println("1000 trials: " + marbleSimulation(1000));
         System.out.println("10000 trials: " + marbleSimulation(10000));
+
+        System.out.println("100000 trials: " + marbleSimulation(100000));
     }
 
     /**
